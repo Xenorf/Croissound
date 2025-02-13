@@ -5,7 +5,7 @@ Croissound is a fun Windows utility that changes the system's sound with custom 
 ## Features
 
 * Changes Windows system sound by modifying registry values under `HKEY_CURRENT_USER\AppEvents\Schemes`.
-* Simple and quick operation just provide a folder containing WAV files and it will automatically apply one of them as the system sound.
+* Simple and quick operation just provide a folder containing `WAV` files and it will automatically apply one of them as the system sound.
 
 ## Usage
 
@@ -13,7 +13,7 @@ Croissound is a fun Windows utility that changes the system's sound with custom 
 2. Rename the files with used system sound names.
 3. Run the **Croissound.exe** program.
 
-Each wav file should be named like a system sound, here are some examples:
+Each `WAV` file should be named like a system sound, here are some examples:
 
 * DeviceConnect
 * DeviceDisconnect
